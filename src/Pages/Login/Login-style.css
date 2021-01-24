@@ -1,0 +1,66 @@
+.Login{
+        background: #67BE4B;
+        width:400px;
+        margin:0 auto;
+        margin-top:30px;
+        margin-bottom: 30px;
+}
+
+ h1{
+    width: 60%;
+    margin: auto;
+    padding-bottom: 10px;
+}
+
+.buttonLogin {
+    background-color:  #2A88AD;
+    color: white;
+    padding: 5px 20px;
+    margin: 8px 0;
+    cursor: pointer;
+    width: 100%;
+}
+
+.buttonLogin:hover {
+    background: #2A6881;
+    color:  white;
+}
+
+input[type=text], input[type=password] {
+    width: 100%;
+    padding: 12px 20px;
+    margin: 8px 0;
+    display: inline-block;
+    border: 1px solid #ccc;
+    box-sizing: border-box;
+}
+
+form {
+    width:100%;
+    padding:20px;
+    border: 1px solid #f1f1f1;
+    background: #fff;
+    box-shadow: 0 0 20px 0 rgba(0, 0, 0, 0.2), 0 5px 5px 0 rgba(0, 0, 0, 0.24);
+}
+img {
+    width: 50%;
+    border-radius: 50%;
+    margin-left: auto;
+    margin-right: auto;
+    display: block;
+}
+
+.psw {
+    float :right;
+    margin-top: -5px;
+}
+
+.createAccount{
+    float: left;
+    margin-top: -5px;
+}
+
+.Bottom {
+    display:inline ; 
+
+}

@@ -1,0 +1,26 @@
+.users-list{
+    margin-top: 50px;
+    margin-left:50px;
+    display:grid;
+    grid-template-columns: 1fr 1fr 1fr 1fr;
+    grid-row-gap: 50px;
+
+}
+.information {
+    text-align: center;
+}
+
+img {
+height: 200px;
+}
+
+button {
+    background-color: whitesmoke;
+    border-radius: 8px;
+}
+button:hover {
+    background-color: #555555;
+    color: white;
+  }
+
+  

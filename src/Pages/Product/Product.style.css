@@ -1,0 +1,19 @@
+img{
+    width: 200px;
+}
+
+.productInforamtion{
+    margin-top: 15px;
+    text-align: center;
+}
+
+.button {
+    background-color: gray;
+}
+.button:hover{
+    background-color: #555555;
+    color: white;
+}
+.checked {
+    color: orange;
+}
